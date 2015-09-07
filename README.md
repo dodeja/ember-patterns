@@ -1,2 +1,5 @@
 # ember-patterns
-Nifty patterns for Ember.js
+
+
+## UI / View
+- https://github.com/mike-north/ember-load
