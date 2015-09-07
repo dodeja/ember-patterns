@@ -2,4 +2,4 @@
 
 
 ## UI / View
-- https://github.com/mike-north/ember-load
+- [Ember-load Ember Loading Spinner](https://github.com/mike-north/ember-load)
